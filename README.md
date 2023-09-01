@@ -4,7 +4,9 @@
 
 - This innovative solar tracking system holds significant potential for efficient electricity generation across various applications, including remote residences, livestock management, agricultural irrigation, pool filtration, and solar heating. Depending on factors such as geographical location and specific system parameters, this proposed solar tracking system has the potential to boost efficiency by a remarkable margin, ranging from 35% to 60%.
 
+For more insights, you can view the scope_and_methodology.md file. To view the end results, go to Results.md. Code is unavialable due to NDA.
 
+Happy Learning!
 
 
 
