@@ -1,7 +1,6 @@
 ### Results
 
-<img src="https://github.com/Rasmika-b/The-360-Panel/assets/60094457/333a06f8-6d17-476c-b67b-b45ce87032c0" width="200" />
-<img src="https://github.com/Rasmika-b/The-360-Panel/assets/60094457/19267f44-fb8f-458f-80b8-b8e8cbf00992" width="250" />
+<img src="/img/360-1.jpg" width="250" /> <img src="/img/360-2.jpg" width="200" />
 
 
 The final product is present in the images depicted above. 
